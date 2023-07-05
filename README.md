@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Matheus, a passionate Machine Learning Enginee
 
 - [LinkedIn](https://www.linkedin.com/in/matheusrc)
 
-Achievements
+## Achievements
 
 AWS Machine Learning Engineer Scholarship 2023 - Udacity
 
