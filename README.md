@@ -6,11 +6,19 @@ Welcome to my GitHub profile! I'm Matheus, a passionate Machine Learning Enginee
 
 - 🔭 I’m currently working on projects related to machine learning
 - 🌱 I’m currently learning Python/Docker/Kubernetes/Cloud/Databricks/Rust/Spark/MLOps/Mlflow/Tensorflow/Flask/SQL
+- I have a degree in biomedical sciences (Yes, I didn't start in the data area 😊)
+- I am currently a computer science student
+- I'm finishing a post-graduation in data sciences
+- I'm transitioning into the data field specifically into the machine learning engineering field
+- I am looking for opportunities as a junior machine learning engineer or intern
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/matheusrc)
 
+Achievements
+
+AWS Machine Learning Engineer Scholarship 2023 - Udacity
 
 ## Skills
 
