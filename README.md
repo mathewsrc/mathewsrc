@@ -18,7 +18,8 @@ Welcome to my GitHub profile! I'm Matheus, a passionate Machine Learning Enginee
 
 ## Achievements
 
-AWS Machine Learning Engineer Scholarship 2023 - Udacity
+Santander Bootcamp Scholarship 2022 (Android development) - [DIO](https://www.dio.me/en)
+AWS Machine Learning Engineer Scholarship 2023 - [Udacity](https://www.udacity.com/)
 
 ## Skills
 
