@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Matheus, a passionate Machine Learning Enginee
 ## About Me
 
 - 🔭 I’m currently working on projects related to machine learning
-- 🌱 I’m currently learning Python/Docker/Kubernetes/Cloud/Databricks/Rust/Spark/MLOps/Mlflow/Tensorflow/Flask/SQL
+- 🌱 I’m currently learning Rust/Spark/MLOps/Tensorflow/FastAPI/BigQuery/AWS
 - I have a degree in biomedical sciences (Yes, I didn't start in the data area 😊)
 - I am currently a computer science student
 - I'm finishing a post-graduation in data sciences
@@ -25,8 +25,9 @@ AWS Machine Learning Engineer Scholarship 2023 - [Udacity](https://www.udacity.c
 ## Skills
 
 - Programming Languages: Python, Java, Kotlin
-- Technologies & Frameworks: AWS SageMaker, AWS S3, AWS EC2, AWS Step Functions, AWS Lambda Functions, BigQuery, Flask, Spark, SKLearn, Tensorflow
+- Technologies & Frameworks: AWS SageMaker, AWS S3, AWS EC2, AWS Step Functions, AWS Lambda Functions, BigQuery, Flask, Spark, SKLearn
 - Tools & Software: Github, Docker, Databricks
+- 
 - Version Control: Git
 
 ## Projects
