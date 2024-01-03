@@ -24,10 +24,13 @@ AWS Machine Learning Engineer Scholarship 2023 - [Udacity](https://www.udacity.c
 
 ## Skills
 
-- Programming Languages: Python, Java, Kotlin
-- Technologies & Frameworks: AWS SageMaker, AWS S3, AWS EC2, AWS Step Functions, AWS Lambda Functions, BigQuery, Flask, Spark, SKLearn
-- Tools & Software: Github, Docker, Databricks
-- 
+- Programação: Python (Pandas, Matplotlib, Polars, Pyspark, Spark SQL), SQL, DuckDB
+- Aprendizado de Máquina: Scikit-learn, MLflow, Hugging Face, Optuna, Gensim, Evidentlyai
+- Nuvem: AWS (SageMaker, Lambda, S3, EC2, Step Functions), GCP (BigQuery), Azure (Container Registry, Container Apps)
+- Business Intelligence: Microsoft Power BI, Looker
+- ETL: Airflow, Soda
+- Containers: Docker
+- Web Scraping: Selenium e BeautifulSoup
 - Version Control: Git
 
 ## Projects
