@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Matheus, a passionate Machine Learning Enginee
 
 Santander Bootcamp Scholarship 2022 (Android development) - [DIO](https://www.dio.me/en)
 
-AWS Machine Learning Engineer Scholarship 2023 - [Udacity](https://www.udacity.com/)
+AWS Machine Learning Engineer Scholarship 2022/2023 - [Udacity](https://www.udacity.com/)
 
 ## Skills
 
