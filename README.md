@@ -43,15 +43,13 @@ AWS Machine Learning Engineer Scholarship 2022/2023 - [Udacity](https://www.udac
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mathewsrc&repo=Topic-Modeling-Reclame-Aqui&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/Topic-Modeling-Reclame-Aqui)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mathewsrc&repo=Operationalizing-an-AWS-ML-Project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/Operationalizing-an-AWS-ML-Project)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mathewsrc&repo=AWS-Machine-Learning-Engineer-Capstone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/AWS-Machine-Learning-Engineer-Capstone)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mathewsrc&repo=Fine-Tuning-Pretrained-Image-Classification-Model-with-AWS-SageMaker-and-TensorFlow&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/Fine-Tuning-Pretrained-Image-Classification-Model-with-AWS-SageMaker-and-TensorFlow)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mathewsrc&repo=machine-failure-prediction&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/machine-failure-prediction)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/ username=mathewsrc&repo=sentiment_emoji_wordcloud&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/sentiment_emoji_wordcloud)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/username=mathewsrc&repo=sentiment_emoji_wordcloud&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/sentiment_emoji_wordcloud)
 
 
 ## Most languages used
