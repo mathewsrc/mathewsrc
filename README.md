@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm Matheus, a passionate Machine Learning Enginee
 
 ## About Me
 
-- 🔭 I’m currently working on projects related to machine learning
-- 🌱 I’m currently learning Rust/Spark/MLOps/Tensorflow/FastAPI/BigQuery/AWS
+- 🔭 I’m currently working on projects related to machine learning, MLOps and Cloud (AWS, Azure)
+- 🌱 I’m currently learning MLOps, FastAPI, AWS, Terraform
 - I have a degree in biomedical sciences (Yes, I didn't start in the data area 😊)
 - I am currently a computer science student
-- I'm finishing a post-graduation in data sciences
+- I have MBA in data sciences
 - I'm transitioning into the data field specifically into the machine learning engineering field
 - I am looking for opportunities as a junior machine learning engineer or intern
 
@@ -26,14 +26,19 @@ AWS Machine Learning Engineer Scholarship 2022/2023 - [Udacity](https://www.udac
 
 - Programação: Python (Pandas, Matplotlib, Polars, Pyspark, Spark SQL), SQL, DuckDB
 - Aprendizado de Máquina: Scikit-learn, MLflow, Hugging Face, Optuna, Gensim, Evidentlyai
-- Nuvem: AWS (SageMaker, Lambda, S3, EC2, Step Functions), GCP (BigQuery), Azure (Container Registry, Container Apps)
+- Nuvem: AWS (SageMaker, Lambda, S3, EC2, Step Functions, ECR, ECS, Bedrock), GCP (BigQuery), Azure (Container Registry, Container Apps)
 - Business Intelligence: Microsoft Power BI, Looker
 - ETL: Airflow, Soda
 - Containers: Docker
 - Web Scraping: Selenium e BeautifulSoup
 - Version Control: Git
+- Code as infrastructure: Terrafom
+- CI/CD: GitHub Actions
+- Microservices: FastAPI
 
 ## Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mathewsrc&repo=generativeai-questions-and-answers-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/generativeai-questions-and-answers-app)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mathewsrc&repo=ETL-Chicago-Cafe-Permits&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mathewsrc/ETL-Chicago-Cafe-Permits)
 
